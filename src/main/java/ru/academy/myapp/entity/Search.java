@@ -1,4 +1,4 @@
-package ru.academy.myapp.model;
+package ru.academy.myapp.entity;
 
 public class Search {
     public String fact;
